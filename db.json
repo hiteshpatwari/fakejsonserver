@@ -1,0 +1,131 @@
+{
+  "06-12-2023 to 06-19-2023": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": true,
+      "withinFence": false,
+      id: '2121212'
+  },
+  "jan2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": true,
+      "withinFence": false
+  },
+  "feb2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": true
+  },
+  "mar2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": null,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": true
+  },
+  "apr2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": true
+  },
+  "may2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": false
+  },
+  "jun2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": false
+  },
+  "jul2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": false
+  },
+  "aug2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": false
+  },
+  "sep2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 500,
+      "delta": 0,
+      "isLead": false,
+      "withinFence": false
+  },
+  "oct2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 0,
+      "delta": -500,
+      "isLead": false,
+      "withinFence": false
+  },
+  "nov2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 0,
+      "delta": -500,
+      "isLead": false,
+      "withinFence": false
+  },
+  "dec2024": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 0,
+      "delta": -500,
+      "isLead": false,
+      "withinFence": false
+  },
+  "jan2025": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 0,
+      "delta": -500,
+      "isLead": false,
+      "withinFence": false
+  },
+  "feb2025": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 0,
+      "delta": -500,
+      "isLead": false,
+      "withinFence": false
+  },
+  "mar2025": {
+      "demand": 500,
+      "demandChange": 0,
+      "supplierResponse": 0,
+      "delta": -500,
+      "isLead": false,
+      "withinFence": false
+  }
+}
