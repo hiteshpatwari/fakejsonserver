@@ -5,8 +5,7 @@
       "supplierResponse": 500,
       "delta": 0,
       "isLead": true,
-      "withinFence": false,
-      id: '2121212'
+      "withinFence": false
   },
   "jan2024": {
       "demand": 500,
