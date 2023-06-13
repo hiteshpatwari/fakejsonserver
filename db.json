@@ -11,15 +11,13 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": true,
-      "withinFence": false
+      "isLead": true
   },
   "feb2024": {
       "demand": 500,
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": false,
       "withinFence": true
   },
   "mar2024": {
@@ -27,7 +25,6 @@
       "demandChange": 0,
       "supplierResponse": null,
       "delta": 0,
-      "isLead": false,
       "withinFence": true
   },
   "apr2024": {
@@ -35,7 +32,6 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": false,
       "withinFence": true
   },
   "may2024": {
@@ -43,7 +39,6 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": false,
       "withinFence": false
   },
   "jun2024": {
@@ -51,7 +46,6 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": false,
       "withinFence": false
   },
   "jul2024": {
@@ -59,7 +53,6 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": false,
       "withinFence": false
   },
   "aug2024": {
@@ -67,7 +60,6 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": false,
       "withinFence": false
   },
   "sep2024": {
@@ -75,7 +67,6 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": false,
       "withinFence": false
   },
   "oct2024": {
@@ -83,7 +74,6 @@
       "demandChange": 0,
       "supplierResponse": 0,
       "delta": -500,
-      "isLead": false,
       "withinFence": false
   },
   "nov2024": {
@@ -91,7 +81,6 @@
       "demandChange": 0,
       "supplierResponse": 0,
       "delta": -500,
-      "isLead": false,
       "withinFence": false
   },
   "dec2024": {
@@ -99,7 +88,6 @@
       "demandChange": 0,
       "supplierResponse": 0,
       "delta": -500,
-      "isLead": false,
       "withinFence": false
   },
   "jan2025": {
@@ -107,7 +95,6 @@
       "demandChange": 0,
       "supplierResponse": 0,
       "delta": -500,
-      "isLead": false,
       "withinFence": false
   },
   "feb2025": {
@@ -115,7 +102,6 @@
       "demandChange": 0,
       "supplierResponse": 0,
       "delta": -500,
-      "isLead": false,
       "withinFence": false
   },
   "mar2025": {
@@ -123,7 +109,6 @@
       "demandChange": 0,
       "supplierResponse": 0,
       "delta": -500,
-      "isLead": false,
       "withinFence": false
   }
 }
