@@ -4,8 +4,7 @@
       "demandChange": 0,
       "supplierResponse": 500,
       "delta": 0,
-      "isLead": true,
-      "withinFence": false
+      "isLead": true
   },
   "jan2024": {
       "demand": 500,
